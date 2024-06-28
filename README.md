@@ -1,7 +1,9 @@
 Responsive Blog Platform
+
 A dynamic and responsive blog platform built with PHP and Bootstrap 4.5.2. This project includes user authentication, post creation, and management features, providing a comprehensive solution for blogging.
 
 Features
+
 Responsive Design: Adapts seamlessly to various screen sizes using Bootstrap.
 User Authentication: Secure login and registration system.
 Post Creation and Management: Authenticated users can create, edit, and delete posts.
